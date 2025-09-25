@@ -29,6 +29,9 @@ public class bankingProgram {
                 default -> System.out.println("Invalid Choice");
             }
         }
+        System.out.println("****************************");
+        System.out.println("Thank You! Have a nice day!!");
+
         sc.close();
     }
 
